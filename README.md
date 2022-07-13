@@ -3,7 +3,7 @@
 ## 注意：
 ### 过于频繁下载会导致网站宕机，尽量在线观看并分散在各个镜像站
 
-- **備用站：**[鏡像站一](https://zentea.cc)、[鏡像站二](https://v.zentea.cc)、[鏡像站三](https://tv.zentea.cc)
+- **镜像站：**[主站](https://zentea.cc)、[鏡像站一](https://zentea.cc)、[鏡像站二](https://v.zentea.cc)、[鏡像站三](https://tv.zentea.cc)
 - 本站只是成觀阿闍黎講經視頻的搬運者，原創在 [YouTube](https://www.youtube.com/user/abtempleorg)
 - 本站不提供實時的直播畫面，觀看直播請查閲：[直播詳情](https://www.abtemple.org/index.php?route=information/information&information_id=10)
 - 本站在搬運的過程中，難免有紕漏，還請各位道友諒解
