@@ -7,7 +7,6 @@
 - 本站不提供實時的直播畫面，觀看直播請查閲：[直播詳情](https://www.abtemple.org/index.php?route=information/information&information_id=10)
 - 本站在搬運的過程中，難免有紕漏，還請各位道友諒解
 - 遇到錯誤，或對本站有任何的建議，可聯繫 <ieatea@pm.me>
-- > 如果對你有所幫助，請我喝一杯咖啡吧 => [支持我](https://donate.zentea.cc)
 
 ## 更新：
 
